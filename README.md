@@ -17,7 +17,7 @@ An **interactive quiz platform** built with **Laravel 12** where users can:
 
 | Home Page                          | Quiz Page                          | Results Page                             |
 | ---------------------------------- | ---------------------------------- | ---------------------------------------- |
-| ![Home](docs/screenshots/home.png) | ![Quiz](docs/screenshots/quiz.png) | ![Results](docs/screenshots/results.png) |
+| ![Home](docs/screenshots/home.png) | ![Quiz](docs/screenshots/quiz.png) | ![Results](docs/screenshots/result.png) |
 
 
 ---
