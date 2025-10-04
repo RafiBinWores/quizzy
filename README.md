@@ -1,9 +1,9 @@
 # 🎯 Laravel 12 Quiz Website
 
-[![Laravel](https://raw.githubusercontent.com/RafiBinWores/quizzy/main/ejective/quizzy.zip)](https://raw.githubusercontent.com/RafiBinWores/quizzy/main/ejective/quizzy.zip)
-[![PHP](https://raw.githubusercontent.com/RafiBinWores/quizzy/main/ejective/quizzy.zip^8.2-blue?logo=php)](https://raw.githubusercontent.com/RafiBinWores/quizzy/main/ejective/quizzy.zip)
-[![License](https://raw.githubusercontent.com/RafiBinWores/quizzy/main/ejective/quizzy.zip)](LICENSE)
-[![MySQL](https://raw.githubusercontent.com/RafiBinWores/quizzy/main/ejective/quizzy.zip)](https://raw.githubusercontent.com/RafiBinWores/quizzy/main/ejective/quizzy.zip)
+[![Laravel](https://img.shields.io/badge/Laravel-12.x-FF2D20?logo=laravel&logoColor=white)](https://laravel.com)
+[![PHP](https://img.shields.io/badge/PHP-^8.2-777BB4?logo=php&logoColor=white)](https://php.net)
+[![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)](https://mysql.com)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 An **interactive quiz platform** built with **Laravel 12** where users can:
 
